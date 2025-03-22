@@ -1,4 +1,4 @@
 # pyverse
-A collection of my Python projects, experiments, and learning journey.<br>---Golla Bhargava Teja---
+A collection of my Python projects, experiments, and learning journey.<br>author-Golla Bhargava Teja
 
 
