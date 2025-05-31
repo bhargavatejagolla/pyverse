@@ -5,4 +5,3 @@ A collection of my Python projects, experiments, and learning journey.
 
 <em>Golla bhargava teja<em>
 
----
