@@ -3,6 +3,6 @@
 A collection of my Python projects, experiments, and learning journey.
 ## Author
 
-<li>Golla Bhargava Teja</li>
+<em>Golla bhargava teja<em>
 
 ---
