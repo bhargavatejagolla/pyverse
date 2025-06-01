@@ -29,6 +29,14 @@ An intermediate-level Python program that tests and evaluates your typing speed 
    ```
 2. ### Run the script:
    python typing_speed_test.py
-3.Follow the on-screen instructions:   
+3. ### Follow the on-screen instructions:
+   <li>Read the displayed text carefully</li>
+   <li>Type the text exactly as shown</li>
+   <li>Press Enter when finished</li>
+   <li>View your results!</li>
+   
+
+
+
    
       
