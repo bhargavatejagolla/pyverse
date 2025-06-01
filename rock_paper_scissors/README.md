@@ -20,6 +20,6 @@ git clone https://github.com/bhargavatejagolla/pyverse.git
 cd pyverse/rock_paper_scissors
 ```
 1. **Run the game:**
-### rockerpaperscissors.py
+## rockerpaperscissors.py
 
  
