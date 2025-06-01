@@ -13,7 +13,7 @@ The match is best-of-three rounds. The scores are tracked and the winner is decl
 
 ##  How to Run
 
-**1. Clone the repo or download the file:**
+ **1. Clone the repo or download the file:**
 
 ```bash
 git clone https://github.com/bhargavatejagolla/pyverse.git
@@ -21,6 +21,6 @@ cd pyverse/rock_paper_scissors
 ```
 2. **Run the game:**
  rockerpaperscissors.py
--
+---
 3. ##  License: MIT License
  
