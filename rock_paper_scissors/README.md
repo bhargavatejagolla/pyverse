@@ -19,7 +19,7 @@ The match is best-of-three rounds. The scores are tracked and the winner is decl
 git clone https://github.com/bhargavatejagolla/pyverse.git
 cd pyverse/rock_paper_scissors
 ```
-1. **Run the game:**
-## rockerpaperscissors.py
+2. **Run the game:**
+# rockerpaperscissors.py
 
  
