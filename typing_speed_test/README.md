@@ -50,7 +50,7 @@ An intermediate-level Python program that tests and evaluates your typing speed 
 
 - Provides motivational feedback based on your performance
 5. ### Example Output 
------------------- TYPING TEST --------------------------
+<h3>------------------ TYPING TEST --------------------------</h3>
 
 The quick brown fox jumps over the lazy dog.
 
@@ -58,13 +58,39 @@ Start typing the above text. Press ENTER when done.
 
 Type here: The quick brown fox jumps over the lazy dog.
 
------------------- RESULTS --------------------------
+<h2>------------------ RESULTS --------------------------</h2>
 Typing Speed: 45.32 WPM
 Time Taken: 6.54 seconds
 Errors: 0
 Accuracy: 100.0%
-----------------------------------------------------
+<h2>----------------------------------------------------</h2>
 🔥 Great job! You're a fast and accurate typist!
+## Customization 🛠️
+
+You can easily customize the typing test:
+
+-  Add more test texts by editing the `test` list in the code  
+-  Adjust the accuracy thresholds for feedback messages  
+-  Change the calculation method for WPM if desired  
+
+---
+
+## Contributing 
+
+Contributions are welcome!  
+If you’d like to improve the project:
+
+1. Fork the repository  
+2. Create a new branch  
+3. Make your changes  
+4. Submit a pull request 
+
+---
+## License 📄
+
+This project is **open source** and available under the **MIT License**.
+
+You are free to use, modify, and share this software for personal or commercial purposes.
 
 
 
