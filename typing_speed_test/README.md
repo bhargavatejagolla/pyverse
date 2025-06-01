@@ -28,5 +28,6 @@ An intermediate-level Python program that tests and evaluates your typing speed 
    cd typing-speed-test
 2. Run the script:
    python typing_speed_test.py
+3.Follow the on-screen instructions:   
    
       
