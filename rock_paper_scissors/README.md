@@ -21,5 +21,6 @@ cd pyverse/rock_paper_scissors
 ```
 2. **Run the game:**
  rockerpaperscissors.py
-
+---
+4. ### License
  
