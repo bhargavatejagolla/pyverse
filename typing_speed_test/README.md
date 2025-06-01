@@ -37,7 +37,7 @@ An intermediate-level Python program that tests and evaluates your typing speed 
    - Press Enter when finished
 
    - View your results!
-4. ### How It Works ⚙️
+4. ### How It Works 
 
 - Randomly selects one of several text samples  
 - Waits for you to type the text as accurately as possible  
@@ -49,7 +49,22 @@ An intermediate-level Python program that tests and evaluates your typing speed 
   - **Accuracy Percentage**
 
 - Provides motivational feedback based on your performance
+5. ### Example Output 
+------------------ TYPING TEST --------------------------
 
+The quick brown fox jumps over the lazy dog.
+
+Start typing the above text. Press ENTER when done.
+
+Type here: The quick brown fox jumps over the lazy dog.
+
+------------------ RESULTS --------------------------
+Typing Speed: 45.32 WPM
+Time Taken: 6.54 seconds
+Errors: 0
+Accuracy: 100.0%
+----------------------------------------------------
+🔥 Great job! You're a fast and accurate typist!
 
 
 
