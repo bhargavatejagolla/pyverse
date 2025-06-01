@@ -22,5 +22,5 @@ cd pyverse/rock_paper_scissors
 2. **Run the game:**
  rockerpaperscissors.py
 ---
-3. ##  License: MIT License
+3. **License: MIT License**
  
