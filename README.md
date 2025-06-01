@@ -5,7 +5,7 @@ A collection of my Python projects, experiments, and learning journey.
 - [Rock Paper Scissors](./rock_paper_scissors/README.md)
 - [Typing Speed Test  ](./typing_speed_test/README.md)
 - [Word_scramble_game ](./word_scramble/README.md)
-- [yt_video_downloader ](./word_scramble/README.md)
+- [yt_video_downloader ](./youtubevideo_downloader/README.md)
 ## Author
 
 <em>Golla bhargava teja<em>
