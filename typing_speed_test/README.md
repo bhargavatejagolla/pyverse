@@ -24,5 +24,9 @@ An intermediate-level Python program that tests and evaluates your typing speed 
 ### Method 1: Clone Repository
 1. Clone the repository:
    ```bash
-   git clone [your-repository-url]
+   git clone [https://github.com/bhargavatejagolla/pyverse/blob/main/typing_speed_test/README.md]
    cd typing-speed-test
+2. Run the script:
+   python typing_speed_test.py
+   
+      
