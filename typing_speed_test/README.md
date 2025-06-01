@@ -37,7 +37,20 @@ An intermediate-level Python program that tests and evaluates your typing speed 
    - Press Enter when finished
 
    - View your results!
-   
+4. ## How It Works ⚙️
+
+The program:
+- Randomly selects one of several text samples  
+- Waits for you to type the text as accurately as possible  
+- Calculates the following:
+
+  - **Typing Speed (WPM)**
+  - **Time Taken**
+  - **Number of Errors**
+  - **Accuracy Percentage**
+
+- Provides motivational feedback based on your performance
+
 
 
 
