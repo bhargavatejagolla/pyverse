@@ -20,6 +20,6 @@ git clone https://github.com/bhargavatejagolla/pyverse.git
 cd pyverse/rock_paper_scissors
 ```
 2. **Run the game**
-   python: rockerpaperscissors.py
+python: rockerpaperscissors.py
 
-3.** License**   
+ 
