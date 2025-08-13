@@ -8,6 +8,17 @@ A collection of my Python projects, experiments, and learning journey.
 - [yt_video_downloader ](./youtubevideo_downloader/README.md)
 - [screen-recorder-python ](./screener-recorder/README.md)
 - [Random-password-generator ](./Random_passsword_generator/README.md)
+- [digital-clock-with-python](./digital_clock_with_python/README.md)
+- [hangman-game-python](./hangman_game_python/README.md)
+- [py-joke-module](./py_joke_module/README.md)
+- [quiz-with-python](./quiz_with_python/README.md)
+- [radom-password-generator](./random_password_generator/README.md)
+- [student-database-managar](./student-database-managar/README.md)
+- [digital-clock-with-python](./digital_clock_with_python/README.md)
+- [task-managar-using-python](./task_managar_python/README.md)
+- [automation-using-pyautogui-module](./automation_using_pyautogui/README.md)
+- [number-to-words](./num_to_words/README.md)
+- [using-pywhatkit-module](./pywhat_kit_module/README.md)
 ## Author
 
 <em>Golla bhargava teja<em>
