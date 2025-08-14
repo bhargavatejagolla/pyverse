@@ -24,7 +24,7 @@ The program randomly selects a word, and the player must guess it letter by lett
 ## 🚀 How to Run
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/<bhargavateja>/<hangman_game_python>.git
    cd <repo-name>
 2. **Run the game**
    ```bash
