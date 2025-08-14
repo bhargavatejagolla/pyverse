@@ -23,8 +23,8 @@ A simple Python program that lets you choose between:
 ## 🚀 How to Run
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/bhargavatejagolla/digital_clock_with_python.git
+   cd digital_clock_with_python
 2. **Run the script**
    ```bash
      python clock_timer.py
