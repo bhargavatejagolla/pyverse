@@ -3,7 +3,7 @@
 A simple **command-line Hangman game** built with Python.  
 The program randomly selects a word, and the player must guess it letter by letter within a limited number of turns.
 
---
+---
 
 ## 📌 Features
 - Random word selection from a predefined list.
