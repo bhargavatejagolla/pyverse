@@ -19,8 +19,8 @@ This is a simple Python project that converts any text into a realistic handwrit
 ## 🚀 How to Run
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/bhargavatejagolla/pywhat_kit_module.git
+   cd pywhat_kit_module
 2. **Install dependencies**
    ```bash
      pip install pywhatkit
