@@ -33,4 +33,7 @@ This is a simple Python project that converts any text into a realistic handwrit
    - The generated handwriting image (demo.png) will be saved in the project folder.
 ----  
 # 👤 Author
-  *GOLLA BHARGAVA TEJA*
+  *GOLLA BHARGAVA TEJA* 
+
+* 🌐 [LinkedIn](https://www.linkedin.com/in/golla-bhargava-teja/)  
+* 💻 [GitHub](https://github.com/bhargavatejagolla)
