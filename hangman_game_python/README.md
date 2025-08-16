@@ -60,6 +60,6 @@ The program randomly selects a word, and the player must guess it letter by lett
 ## 👤 Author
   *Golla Bhargava Teja*  
 🔗 [LinkedIn](https://www.linkedin.com/in/golla-bhargava-teja/)  
-🔗 [GitHub](https://github.com/<your-username>)
+🔗 [GitHub](https://github.com/bhargavatejagolla)
 
 
