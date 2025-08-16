@@ -67,3 +67,8 @@ Your random password is: 7x$Kq9@Lp2!Y
 
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for full details.
+---
+**Golla Bhargava Teja**  
+
+* 🌐 [LinkedIn](https://www.linkedin.com/in/golla-bhargava-teja/)  
+* 💻 [GitHub](https://github.com/bhargavatejagolla)
