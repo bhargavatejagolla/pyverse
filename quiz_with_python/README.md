@@ -28,8 +28,8 @@ The game asks random multiple-choice questions, gives you 10 seconds to think, a
 ## 🚀 How to Run
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/bhargavatejagolla/quiz_with_python.git
+   cd quiz_with_python
 2. **Run the quiz game**
    ```bash
      python quiz.py
