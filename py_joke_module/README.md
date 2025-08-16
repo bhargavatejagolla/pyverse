@@ -36,6 +36,6 @@ Because light attracts bugs.
 **Bhargava Teja Golla**
 
 * 🌐 [LinkedIn](https://www.linkedin.com/in/golla-bhargava-teja/)
-* 💻 [GitHub](https://github.com/<your-username>)
+* 💻 [GitHub](https://github.com/bhargavatejagolla)
 
 
