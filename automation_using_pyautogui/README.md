@@ -77,9 +77,9 @@ pip install pyautogui
 
 ## 👨‍💻 Author
 
-**Bhargava Teja Golla**  
+**Golla Bhargava Teja**  
 
 * 🌐 [LinkedIn](https://www.linkedin.com/in/golla-bhargava-teja/)  
-* 💻 [GitHub](https://github.com/<your-username>)
+* 💻 [GitHub](https://github.com/bhargavatejagolla)
 
 
