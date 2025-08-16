@@ -69,8 +69,12 @@ You won the overall match
 - Add game statistics tracking
 - Include additional game variations (e.g., Rock-Paper-Scissors-Lizard-Spock)
 
-## Author
-Golla Bhargava Teja
 
 ## License
 This project is open source and available under the [MIT License](https://opensource.org/licenses/MIT).
+---
+## Author
+**Golla Bhargava Teja**
+
+* 🌐 [LinkedIn](https://www.linkedin.com/in/golla-bhargava-teja/)  
+* 💻 [GitHub](https://github.com/bhargavatejagolla)
